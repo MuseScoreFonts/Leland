@@ -14,5 +14,4 @@ To use the font in Dorico (1.0.20 and later), the `metadata.json` file needs to 
 
 __Windows__: `C:\Program Files\Common Files\SMuFL\Fonts\leland\leland.json`  
 __Mac__: `/Library/Application Support/SMuFL/Fonts/leland/leland.json`
-
-
+__Linux__: `/usr/share/SMuFL/Fonts/leland/leland.json`
