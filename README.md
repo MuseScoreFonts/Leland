@@ -22,4 +22,4 @@ __Windows__: `C:\Program Files\Common Files\SMuFL\Fonts\leland\leland.json`
 __Mac__: `/Library/Application Support/SMuFL/Fonts/leland/leland.json`  
 __Linux__: `/usr/share/SMuFL/Fonts/leland/leland.json`
 
-To use the font with other applications, install the .otf font files in your OS in the usual way.
+To use the font with other applications, install the .otf font files in your OS in the usual way. Note that this font does **not** yet work in Sibelius or Finale as they do not have support for SMuFL fonts. (A Sibelius-specific version is in development.)
