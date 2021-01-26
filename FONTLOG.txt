@@ -33,5 +33,11 @@ https://musescore.com/contact
 Change log
 ----------
 
+25 January 2021 (Martin Keary & Simon Smith) Leland Version 0.51
+- Packaged with MuseScore 3.6.1
+- Corrected drawing direction of many symbols
+- Very slightly reshaped quarter/half noteheads (E0A3/E0A4)
+- Narrowed double whole rest (E4E2)
+
 14 December 2020 (Martin Keary & Simon Smith) Leland Version 0.5
 - Initial release to be packaged with MuseScore 3.6 public beta
