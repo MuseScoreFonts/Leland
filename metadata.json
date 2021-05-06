@@ -22,6 +22,7 @@
         "stemThickness": 0.11,
         "subBracketThickness": 0.11,
         "textEnclosureThickness": 0.11,
+        "textFontFamily": ["Edwin", "serif"],
         "thickBarlineThickness": 0.55,
         "thinBarlineThickness": 0.18,
         "tieEndpointThickness": 0.07,
