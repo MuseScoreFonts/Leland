@@ -24,4 +24,4 @@ __Windows__: `C:\Program Files\Common Files\SMuFL\Fonts\Leland\Leland.json`
 __Mac__: `/Library/Application Support/SMuFL/Fonts/Leland/Leland.json`  
 __Linux__: `/usr/share/SMuFL/Fonts/Leland/Leland.json`
 
-Note that you will need to create a Leland folder inside the `SMuFL/Fonts` folder manually, as well as renaming the `metadata.json` file to `Leland.json`.
+Note that you will need to create a Leland folder inside the `SMuFL/Fonts` folder manually, as well as renaming the `leland_metadata.json` file to `Leland.json`.
