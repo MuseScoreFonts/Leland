@@ -32,6 +32,8 @@ https://musescore.com/contact
 
 Change log
 ----------
+08 July 2021 (Martin Keary & Simon Smith) Leland Version 0.61)
+- Added missing points at extrema throughout
 
 05 July 2021 (Martin Keary & Simon Smith) Leland Version 0.6
 - Leland
