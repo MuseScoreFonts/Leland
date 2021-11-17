@@ -33,6 +33,10 @@ https://musescore.com/contact
 Change log
 ----------
 
+17 November 2021 (Martin Keary & Simon Smith) Leland Version 0.73
+- Corrected small bump in contour of whole note symbols
+- Fixed missing extrema in pedal symbols E650 and E651
+
 16 November 2021 (Martin Keary & Simon Smith) Leland Version 0.72
 - Leland
   - Added:
