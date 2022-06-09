@@ -1,6 +1,6 @@
 # Leland music fonts
 
-This repository contains the **Leland music fonts, Version 0.75**.
+This repository contains the **Leland music fonts, Version 0.76**.
 
 ## About the fonts
 
