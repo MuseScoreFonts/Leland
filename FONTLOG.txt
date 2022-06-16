@@ -33,6 +33,9 @@ https://musescore.com/contact
 Change log
 ----------
 
+17 May 2022 (Martin Keary & Simon Smith) Leland Version 0.77
+- Adjusted kerning for dynamics and octave symbols
+
 9 May 2022 (Martin Keary & Simon Smith) Leland Version 0.76
 - Leland
   - Added:
