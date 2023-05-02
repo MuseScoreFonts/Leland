@@ -24,6 +24,8 @@
         "textEnclosureThickness": 0.11,
         "textFontFamily": [
             "Edwin",
+            "Academico",
+		    "Century Schoolbook",
             "serif"
         ],
         "thickBarlineThickness": 0.55,
