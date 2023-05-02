@@ -16,7 +16,7 @@
         "pedalLineThickness": 0.11,
         "repeatBarlineDotSeparation": 0.37,
         "repeatEndingLineThickness": 0.11,
-        "slurEndpointThickness": 0.07,
+        "slurEndpointThickness": 0.05,
         "slurMidpointThickness": 0.21,
         "staffLineThickness": 0.11,
         "stemThickness": 0.1,
@@ -24,11 +24,14 @@
         "textEnclosureThickness": 0.11,
         "textFontFamily": [
             "Edwin",
+            "Century Schoolbook",
+            "C059",
+            "Academico",
             "serif"
         ],
         "thickBarlineThickness": 0.55,
         "thinBarlineThickness": 0.18,
-        "tieEndpointThickness": 0.07,
+        "tieEndpointThickness": 0.05,
         "tieMidpointThickness": 0.21,
         "tupletBracketThickness": 0.1
     },
